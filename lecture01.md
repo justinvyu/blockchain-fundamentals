@@ -1,0 +1,34 @@
+---
+layout: page
+title: "Bitcoin: High Level Overview"
+permalink: /bitcion-high-level-overview/
+---
+
+# Blockchain Fundamentals
+
+## 1. Bitcoin's Beginnings 👶
+
+Bitcoin's story begins in October 2008, when an anonymous entity by the name of **Satoshi Nakamoto** published the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf).
+Nakamoto proposed a *"purely peer-to-peer version of electronic cash"* that could hold value, track identity, and be transfered just like any other currency.
+While there had been attempts to create a digital currency in the past (such as Hashcash and Digicash), Nakamoto's was the first to successfully combine **computer science, cryptography, and economics** to make what we know as Bitcoin today.
+
+### Motivations 💪
+Okay, cool. Bitcoin is a digital currency created by some shady guy(s)/gal(s). So what?
+
+Well, here are a few key reasons to care:
+1. Bitcoin is **DECENTRALIZED**. This means that you no longer need to trust a middleman (i.e. banks, companies, government) to hold and manage your assets.
+2. The currency is **purely digital** and is not controlled by any single entity. This allows for **true ownership** of money.
+
+Think about it this way: when you want to buy something using your credit card, you ultimately need to trust that your bank and its centralized ledger is keeping the records straight to handle your request. More importantly, when you submit confidential information such as social security numbers or house addresses, you *trust* that the bank will not distribute this information &mdash; or worse! get hacked and leak your identity.
+
+In a nutshell, *Bitcoin provides a way to distribute your trust across a network rather than any centralized authority.*
+
+## 2. So... what's a Blockchain? 🤔
+
+A **blockchain** is a data structure used to store information amongst multiple parties that ensures data integrity.
+
+To understand this better, it's easier to go through the example of Bitcion, which uses the blockchain data structure to handle its four main components:
+1. Identity management
+2. Transactions
+3. Record-keeping on a distributed ledger
+4. Trustless consesnsus
